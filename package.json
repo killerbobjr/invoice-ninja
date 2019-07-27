@@ -24,8 +24,8 @@
   "homepage": "https://github.com/nCrazed/invoice-ninja",
   "dependencies": {
     "duplexer": "^0.1.1",
-    "markdown-pdf": "^2.2.0",
-    "split": "^0.3.0",
-    "through": "^2.3.4"
+    "markdown-pdf": "^9.0.0",
+    "split": "^1.0.1",
+    "through": "^2.3.8"
   }
 }
